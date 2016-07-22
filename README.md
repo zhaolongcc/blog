@@ -1,7 +1,6 @@
 ---
-my log everyday!
----
 # blog
+---
 
 2016-07-22
 I have a problem:
