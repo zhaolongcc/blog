@@ -29,3 +29,6 @@ checking for libtool >= 2.2 ...
   
   Install libtool 2.2 or more...   
   git clone libtool, and i don't know how to install libtool, stop here!  
+
+2016-08-15
+I'm in ubuntu now!
