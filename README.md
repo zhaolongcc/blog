@@ -32,3 +32,8 @@ checking for libtool >= 2.2 ...
 
 2016-08-15  
 I'm in ubuntu now!
+
+2016-08-15 night  
+how to install a file .run?  
+chmod +x ./xxxx.run  
+sudo ./xxxx.run  
